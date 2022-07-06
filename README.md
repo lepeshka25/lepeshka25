@@ -1,8 +1,8 @@
 [![Ruslan GitHub Banner](./assets/GitHubHeader.png)](https://www.instagram.com/lepeshka25/)
 
-[![Twitter Badge](./assets/instagram.png)](https://www.instagram.com/lepeshka25/)
+[![Instagram Badge](./assets/instagram.png)](https://www.instagram.com/lepeshka25/)
 
-[![Twitter Badge](./assets/telegram.png)](https://t.me/lepeshka25)
+[![Telegram Badge](./assets/telegram.png)](https://t.me/lepeshka25)
 
 
 
