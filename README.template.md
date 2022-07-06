@@ -1,6 +1,6 @@
 [![Ruslan GitHub Banner](./assets/GitHubHeader.png)](https://www.instagram.com/lepeshka25/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://www.instagram.com/lepeshka25/)
+[![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://www.instagram.com/lepeshka25/)
 
 Привет 👋
 
